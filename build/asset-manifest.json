@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anakyn01.github.io/4_reactbootstrap/static/css/main.2544e43a.css",
+    "main.js": "/anakyn01.github.io/4_reactbootstrap/static/js/main.2f1b5e12.js",
+    "index.html": "/anakyn01.github.io/4_reactbootstrap/index.html",
+    "main.2544e43a.css.map": "/anakyn01.github.io/4_reactbootstrap/static/css/main.2544e43a.css.map",
+    "main.2f1b5e12.js.map": "/anakyn01.github.io/4_reactbootstrap/static/js/main.2f1b5e12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2544e43a.css",
+    "static/js/main.2f1b5e12.js"
+  ]
+}
